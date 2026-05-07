@@ -37,8 +37,3 @@ Building scalable web applications with React, Next.js, and Node.js.
 
 ---
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EllyCarlos&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>

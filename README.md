@@ -267,5 +267,5 @@ Whether you need a product built from scratch or want to level up an existing on
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1628,50:1A56A0,100:0a1628&height=100&section=footer" width="100%"/>
 
-  <sub>Built with ☕ in Nairobi, Kenya &nbsp;·&nbsp; © 2025 Elly Carlos</sub>
+  <sub>Built with ☕ in Nairobi, Kenya &nbsp;·&nbsp; © 2026 Elly Carlos</sub>
 </div>

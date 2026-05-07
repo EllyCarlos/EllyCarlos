@@ -8,7 +8,7 @@ Building scalable web applications with React, Next.js, and Node.js.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ellycarlos.vercel.app-1A56A0?style=for-the-badge&logo=vercel)](https://ellycarlos.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EllyCarlos-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/elly-carlos)
-[![Email](https://img.shields.io/badge/Email-ellycarlos97@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ellycarlos97@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ellycarlos97@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:ellycarlos7915@gmail.com)
 
 </div>
 

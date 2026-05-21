@@ -10,7 +10,7 @@
 const elly = {
   role:       "Full-Stack Developer",
   location:   "Nairobi, Kenya 🇰🇪",
-  experience: "2+ years",
+  experience: "3+ years",
   clients:    "10+ delivered",
   focus:      ["Scalable Web Apps", "Real-Time Systems", "E-Commerce"],
   currently:  "Building immersive 3D web experiences",
@@ -28,7 +28,7 @@ const elly = {
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1628)](https://linkedin.com/in/elly-carlos)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1628)](mailto:ellycarlos97@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1628)](mailto:ellycarlos7915@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-@EllyCarlos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a1628)](https://github.com/EllyCarlos)
 
@@ -114,6 +114,8 @@ A comprehensive messaging app built for scale. Supports one-on-one and group cha
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-1A56A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EllyCarlos/NexusChat)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nexuswebapp.vercel.app/)
+
 
 </td>
 <td width="50%" valign="top">
@@ -130,6 +132,7 @@ Complete shopping experience with JWT auth, admin dashboard, product reviews, wi
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-1A56A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EllyCarlos/Ecommerce_using_MERN-)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ecommerce-using-mern-nu.vercel.app/)
 
 </td>
 </tr>
@@ -210,7 +213,7 @@ Real-time stock price tracking with personalized alerts and detailed company ins
 
 | | |
 |:---|:---:|
-| 🗓️ Years of Experience | **2+** |
+| 🗓️ Years of Experience | **3+** |
 | 🤝 Clients Served | **10+** |
 | ⚡ Avg Performance Improvement | **20%** |
 | 🧑‍💼 Client Staff Trained | **15+** |
@@ -250,7 +253,7 @@ Whether you need a product built from scratch or want to level up an existing on
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-ellycarlos97@gmail.com-EA4335?style=for-the-badge&labelColor=0a1628)](mailto:ellycarlos97@gmail.com)
+[![Email Me](https://img.shields.io/badge/📧_Email_Me-ellycarlos97@gmail.com-EA4335?style=for-the-badge&labelColor=0a1628)](mailto:ellycarlos7915@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ellycarlos.vercel.app-1A56A0?style=for-the-badge&labelColor=0a1628)](https://ellycarlos.vercel.app)
 &nbsp;

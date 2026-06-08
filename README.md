@@ -165,6 +165,7 @@ Real-time stock price tracking with personalized alerts and detailed company ins
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 [![View Repo](https://img.shields.io/badge/View_Repo-1A56A0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EllyCarlos/Signalist-stockmarket-app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://signalist-stockmarket-app.vercel.app)
 
 </td>
 </tr>
